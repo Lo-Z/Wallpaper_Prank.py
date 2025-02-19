@@ -1,7 +1,7 @@
 # Wallpaper_Prank.py
 A Python script that can be converted into a windows .exe that changes the desktop wallpaper to whatever .jpg from the internet that you wish.
 
-------------------------------------------------------------------~-~ Ω <(-.-)> Ω ~-~-------------------------------------------------------------------
+--------------------------------------------------------~-~ Ω <(-.-)> Ω ~-~---------------------------------------------------------
 
  This python script will change the wallpaper of a windows PC using an HTTP URL and requires internet access. 
 
@@ -15,7 +15,7 @@ A Python script that can be converted into a windows .exe that changes the deskt
 
  I am not responsible for the misuse of this script. 
 
-------------------------------------------------------------------~-~ Ω <(-.-)> Ω ~-~-------------------------------------------------------------------
+--------------------------------------------------------~-~ Ω <(-.-)> Ω ~-~---------------------------------------------------------
 
 # Bonus Fun
 
@@ -35,4 +35,4 @@ Your new .exe file will be inside the dist/ folder in whatever folder you compil
 
 again I am not responsible for the misuse of this script. 
 
-------------------------------------------------------------------~-~ Ω <(-.-)> Ω ~-~-------------------------------------------------------------------
+--------------------------------------------------------~-~ Ω <(-.-)> Ω ~-~---------------------------------------------------------
